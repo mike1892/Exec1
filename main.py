@@ -13,7 +13,7 @@ def clear_screen() -> None:
 def main() -> None:
     clear_screen()
 
-    print("Hi Exercise 1")
+    print("Hi Exercise 1.")
 
 
 if __name__ == "__main__":
